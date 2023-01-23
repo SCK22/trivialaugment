@@ -3,3 +3,5 @@
    2. may be hard to prove, lets see
 2. Check for all the configs that ran 1 gpu
 3. setup office system with pytorch gpu and run all these 1 gpu things, dont have to worry about cost
+4. Read the yaml files and see if you can make a better representation of the experiments that they did
+5. 
