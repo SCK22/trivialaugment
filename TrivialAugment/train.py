@@ -31,6 +31,8 @@ from TrivialAugment.metrics import accuracy, Accumulator
 from TrivialAugment.networks import get_model, num_class
 from warmup_scheduler import GradualWarmupScheduler
 import aug_lib
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
 logger = get_logger('TrivialAugment')
 logger.setLevel(logging.DEBUG)
