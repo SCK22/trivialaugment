@@ -17,3 +17,13 @@
       - size of time images (mb)
       - time take to run a few epochs (if possible)
     - 
+5. Cannot run imagenet data - 150GB
+
+# my experiments
+## TODO 24-01-2023
+1. learn what is 40-2, 28-10 config in wresnet
+   https://towardsdatascience.com/review-wrns-wide-residual-networks-image-classification-d3feb3fb2004
+      - WRN-d-k: means the WRN has the depth of d and with widening factor k.
+      - can use the image from 2.3. Width of ResNet Blocks to show the number of parameters, and show another table with the models that you trained 
+
+2. what is shake shake net and the difference between its configs

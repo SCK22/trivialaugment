@@ -1,0 +1,4 @@
+model, parameters, trainable parameters
+shakeshake26_2x96d,26192906,26192906
+wresnet28_10,36489290,36489290
+wresnet40_2,2246474,2246474
