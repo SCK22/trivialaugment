@@ -1,7 +1,7 @@
 load_main_model: true
 model:
   type: resnet50
-dataset: smallwidth_imagenet
+dataset: imagenet
 aug: randaugment
 augmentation_search_space: fixed_standard # they used 224 x 244
 randaug:
